@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Usman</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-- 🔭 I’m currently working on **My Portofolio**
+- 🔭 I’m currently working on **My Portfolio**
 
 - 🌱 I’m currently learning **JavaScript**
 
